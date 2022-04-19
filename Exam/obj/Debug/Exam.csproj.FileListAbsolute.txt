@@ -1,0 +1,13 @@
+C:\Users\takar\source\repos\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\takar\source\repos\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\takar\source\repos\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\takar\source\repos\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Users\takar\source\repos\Exam\Exam\obj\Debug\Exam.Form1.resources
+C:\Users\takar\source\repos\Exam\Exam\obj\Debug\Exam.Primary.resources
+C:\Users\takar\source\repos\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\takar\source\repos\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\takar\source\repos\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\takar\source\repos\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\takar\source\repos\Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\takar\source\repos\Exam\Exam\obj\Debug\Exam.Show.resources
+C:\Users\takar\source\repos\Exam\Exam\obj\Debug\Exam.Zakaz.resources
